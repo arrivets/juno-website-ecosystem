@@ -9,6 +9,7 @@ dist
 .DS_Store
 
 # SSL proxy
+
 localhost-key.pem
 localhost.pem
 
